@@ -1,4 +1,5 @@
 **Project Overview**
+
 This is a full-stack Portfolio Website application. It consists of a React frontend for the user interface and a Python FastAPI backend that handles data persistence and API logic.
 Key features implemented in the backend include:
 - Contact Form Handling: Endpoints to receive and store messages from visitors (/contact).
